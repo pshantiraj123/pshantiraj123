@@ -46,21 +46,13 @@ Check out my GitHub profile 🚀
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=pshantiraj123&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pshantiraj123&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-  />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=pshantiraj123&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pshantiraj123&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=pshantiraj123&theme=tokyonight&hide_border=true"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pshantiraj123&theme=tokyonight"/>
 </p>
 
 ---
