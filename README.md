@@ -7,7 +7,7 @@ Hello, this is #ShantiRaj check my Github profile
 
 ###
 <h1 align="center"> Hi there, I'am Shanti Raj👋</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">A passionate DevOps Engineer </h3>
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it,
 -    It's my Sincere Request🤓
 
