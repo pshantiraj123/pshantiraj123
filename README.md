@@ -12,6 +12,7 @@ Hello, this is #ShantiRaj check my Github profile
 -    It's my Sincere Request🤓
 
 💻 *Things I love*
+⚡⚡⚡⚡⚡⚡⚡⚡
 - Java ,AWS with Devops and Snowflake <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Front-end devolopment ✍
 - Backen-end devolopement
