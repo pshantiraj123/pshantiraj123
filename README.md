@@ -52,9 +52,10 @@ Check out my GitHub profile 🚀
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pshantiraj123&theme=tokyonight"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=pshantiraj123&theme=tokyonight&hide_border=true"
+  />
 </p>
-
 ---
 
 ## 🤝 Connect with Me
